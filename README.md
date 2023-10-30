@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Quan Yuan
-- 👀 I’m currently studying in Southampton University with MEng in Computer Science with Artifitial Intelligence
+- 👀 I’m currently studying in University of Southampton with MEng in Computer Science with Artifitial Intelligence
 - 🌱 I'm interested in Machine learning, especially the theory part in the algorithms. And also XAI is the direction I am current doing a research.
 
 <!---
